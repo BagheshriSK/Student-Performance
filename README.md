@@ -7,7 +7,8 @@ Access Dataset Source - https://www.kaggle.com/datasets/spscientist/students-per
 Dataset contains 8 columns and 1000 rows.
 
 Lifecycle of an EDA project
-Problem Definition
-Data Collection
-Data Validation
-Exploratory data analysis (EDA)
+
+-Problem Definition
+-Data Collection
+-Data Validation
+-Exploratory data analysis (EDA)
