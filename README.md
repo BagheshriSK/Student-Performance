@@ -6,7 +6,7 @@ This project examines how various factors, including gender, ethnicity, parental
 Access Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
 Dataset contains 8 columns and 1000 rows.
 
- Lifecycle of an EDA project
+  Lifecycle of an EDA project
 
  -Problem Definition
  -Data Collection
